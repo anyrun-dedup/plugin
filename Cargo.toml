@@ -1,6 +1,6 @@
 [package]
 name = "anyrun-plugin"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "The crate for building plugins for Anyrun"
 license = "GPL-3.0"
@@ -12,5 +12,5 @@ readme = "README.md"
 
 [dependencies]
 abi_stable = "0.11.1"
-anyrun-interface = "0.1.0"
-anyrun-macros = "0.1.0"
+anyrun-interface = "0.1.1"
+anyrun-macros = "0.1.1"
